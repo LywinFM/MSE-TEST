@@ -1,0 +1,1 @@
+print ("Hellow NZ this is my great journey and I will have my wife and kids here")
